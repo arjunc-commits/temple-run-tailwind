@@ -8,7 +8,7 @@ function App() {
     <>
     <header className='w-full h-16 bg-black flex justify-center fixed'>
       <div className='w-[70%] h-16 flex justify-between'>
-        <img src='/public/images/imangi-logo@2x (1).png'alt='logo'className='h-15 '></img>
+        <img src='/images/imangi-logo@2x (1).png'alt='logo'className='h-15 '></img>
         <ul className='flex list-none gap-8 font-semibold text-[15px] items-center cursor-pointer  text-amber-50 ml-10' >
         <li>CARRERS</li>
         <li>LICENSING</li>
@@ -28,19 +28,19 @@ function App() {
    </div>
    <div className='max-w-5xl h-200 grid  grid-cols-2 grid-rows-2 gap-23 justify-items-center mx-auto '>
     <div className='flex  flex-col items-center'>
-    <img src='/public/images/Games_tr1.png' alt='logo' className=' rounded-2xl  '></img>
+    <img src='/images/Games_tr1.png' alt='logo' className=' rounded-2xl  '></img>
     <p className='mt-4 text-gray-600 text-2xl '>Temple Run</p>
     </div>
     <div className='flex items-center flex-col'>
-    <img src='/public/images/Games_tr2_b.png' alt='logo' className=' rounded-2xl '></img>
+    <img src='/images/Games_tr2_b.png' alt='logo' className=' rounded-2xl '></img>
     <p className='mt-4 text-gray-600 text-2xl'>Temple Run 2</p>
     </div>
     <div className='flex items-center flex-col'>
-    <img src='/public/images/Games_trpa.jpeg'alt='logo' className='rounded-2xl '></img>
+    <img src='/images/Games_trpa.jpeg'alt='logo' className='rounded-2xl '></img>
     <p className='mt-4 text-gray-600 text-2xl'>Temple Run: Puzzle Adventure</p>
     </div>
     <div className='flex flex-col items-center'>
-    <img src='/public/images/leyends-1.jpg' alt='logo' className='rounded-2xl'></img>
+    <img src='/images/leyends-1.jpg' alt='logo' className='rounded-2xl'></img>
     <p className='mt-4 text-gray-600 text-2xl'>Temple Run: Legends</p>
 </div>
    </div>
@@ -53,12 +53,12 @@ function App() {
     <p className='pt-4'>This focus on growth has seen Imangi expand in terms of its team <br /> size, but also its strategy and scope. Imangi is focused on growing and <br /> developing the Temple Run brand through a variety of opportunities <br /> including new mobile games (both runner and non-runner) and beyond. <br /> Imangi is developing a team and culture that reflects the Temple Run <br /> mantra of Fun, Wonder, Danger, and Adventure!</p>    
     </div>
     <div className='flex items-center pr-55 w-[60%]'>
-      <img src='/public/images/golden-idol.png' alt='logo'className='h-130' ></img>
+      <img src='/images/golden-idol.png' alt='logo'className='h-130' ></img>
     </div>
    </div>
    <div className='h-165 bg-black flex '>
     <div className='flex justify-center w-[60%] '>
-      <img src='/public/images/demonmonkey-home.png' alt='logo' className='h-140 -mt-23 '></img>
+      <img src='/images/demonmonkey-home.png' alt='logo' className='h-140 -mt-23 '></img>
     </div>
     <div className='w-[70%]  flex flex-col '>
      <h1 className='text-amber-50 text-5xl mt-28'><strong>Careers</strong></h1>
