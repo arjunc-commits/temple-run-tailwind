@@ -19,7 +19,7 @@ function App() {
         </ul>
       </div>
     </header>
-   <div className="w-full h-158 bg-[url('public/images/hero_1920x700.jpg')] bg-cover flex flex-col justify-center items-center">
+   <div className="w-full h-158 bg-[url('/images/hero_1920x700.jpg')] bg-cover flex flex-col justify-center items-center">
     <h1 className='flex justify-center items-center text-5xl  font-bold'>Imangi STUDIOS</h1>
     <p className='flex justify-center items-center text-lg '>Creators of Temple Run</p>
    </div>
